@@ -1,7 +1,7 @@
 # Crypto-Project-1
 End-to-end Encrypted Chat Client project in Applied Crypto course
 
-###Warning
+### Warning
  This program will not be able to run on Windows OS. Try to use a Unix-based environment.
 
 ### Installation
