@@ -1,4 +1,4 @@
-# Crypto-Project-1
+# Crypto-Project-2
 End-to-end Encrypted Chat Client project in Applied Crypto course
 
 ### Warning
