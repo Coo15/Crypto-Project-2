@@ -270,4 +270,6 @@ def str_to_bytes(s: str) -> bytes:
     Returns:
         byte string
     """
-    return s.encode("utf-8")
+    if isinstance(s, str):
+        return s.encode("utf-8")
+    return s
